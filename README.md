@@ -161,6 +161,6 @@ Depois de finalizar, copie no Moodle:
 
 ```text
 Repositório: https://github.com/frndchagas-org/diagn-stico-de-retomada-teoria-da-computa-o-EriiSy/
-Commit final: Atividade_Revisao_01
+Commit final: revisão de conceitos e atualização da autoavaliação
 Autoavaliação: nível básico para o intermediário, maior dificuldade: conceitos e terminologias por extenso  e tópico que precisa ser retomado:  Hierarquia de Chomsky e Classes.
 ```
